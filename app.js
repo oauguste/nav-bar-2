@@ -1,4 +1,4 @@
-const toggleBtn = document.querySelector(".sidebar-toogle");
+const toggleBtn = document.querySelector(".sidebar-toggle");
 
 const closedBtn = document.querySelector(".closed-btn");
 
